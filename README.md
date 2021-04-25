@@ -12,6 +12,7 @@
    - Lasso Regression
    - Ridge Regression
    - ElasticNetCV
+   - Stacking Regressor
  - Classification
    - Logistic Regression
    - Multinomial Logistic Regression
@@ -19,6 +20,9 @@
    - KNN
    - SVM
    - Naive Bayes
+   - Adaboost
+   - Gradient Bossting
+   - Baggging
    - Voting and Stacking Classifier
 - Time Series Forecasting
    - ARIMA
