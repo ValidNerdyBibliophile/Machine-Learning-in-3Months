@@ -19,6 +19,7 @@
    - KNN
    - SVM
    - Naive Bayes
+   - Voting and Stacking Classifier
 - Time Series Forecasting
    - ARIMA
    - Moving Average
