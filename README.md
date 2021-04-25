@@ -1,2 +1,26 @@
-# Machine-Learning-in-3Months
-A 3 month course on Machine Learning! From Basics to Advance!!
+### Machine Learning In 3 Months
+- Basics of Python
+- Numpy
+- Pandas
+- Exploratory Data Analysis
+- Data Visualization
+- Data Analysis
+- Machine Learning
+ - Regression
+   - Linear Regression
+   - Polynomial Regression
+   - Lasso Regression
+   - Ridge Regression
+   - ElasticNetCV
+ - Classification
+   - Logistic Regression
+   - Multinomial Logistic Regression
+   - GridSearch CV
+   - KNN
+   - SVM
+   - Naive Bayes
+- Time Series Forecasting
+   - ARIMA
+   - Moving Average
+   - Auto ARIMA
+   - Auto Regression
