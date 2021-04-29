@@ -29,3 +29,6 @@
    - Moving Average
    - Auto ARIMA
    - Auto Regression
+ - Unsupervised Learning
+   - KMeans Clustering
+   - Agglomerative Clustering and Divisive Clustering
