@@ -32,3 +32,5 @@
  - Unsupervised Learning
    - KMeans Clustering
    - Agglomerative Clustering and Divisive Clustering
+ - PCA
+ - SVD
