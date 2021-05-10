@@ -34,4 +34,8 @@
    - Agglomerative Clustering and Divisive Clustering
    - DBSCAN
  - PCA
+   - Feature Extraction
+   - Visualization
  - SVD
+ - Deep Learning
+   - RNN - LSTM
